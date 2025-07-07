@@ -11,7 +11,7 @@
 
 | **博&emsp;客** | **<https://vpsaz.cn>** |
 | :------------: | :------------------------------------------------------- |
-|**BaiApi**| **<https://baiapi.cn>** |
+|**BaiAPI**| **<https://baiapi.cn>** |
 | **校长软件** | **<https://caob.tech>** |
 
 **Languages:**
